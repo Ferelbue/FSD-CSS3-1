@@ -16,7 +16,6 @@ body {
 .mainBox {
     height: 4em;
     width: 4em;
-    margin: 1em;
     transition: 1s;
 }
 
@@ -39,6 +38,7 @@ body {
 .box5 {
     background-color: rgb(255, 0, 144);
 }
+
 .box6 {
     background-color: rgb(60, 224, 2);
 }
