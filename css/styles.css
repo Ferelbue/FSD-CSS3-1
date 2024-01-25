@@ -62,5 +62,9 @@ body {
 .boxTransition:hover {
     transition: 1s;
     border-radius: 50%;
+}
 
+.boxTransition2:hover {
+    transition: 0.5s;
+    border-radius: 50% 10% 50% 10%;
 }
